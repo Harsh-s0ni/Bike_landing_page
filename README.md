@@ -2,6 +2,10 @@
 
 Welcome to the Bike Landing Page project! This showcase is a testament to my front-end web development skills, highlighting a contemporary design that captures the essence of modern websites. The page has been meticulously crafted using Tailwind CSS and HTML, resulting in an eye-catching and fresh user experience.
 
+## Experience the Page
+
+https://harsh-s0ni.github.io/Bike_landing_page/distribution/Project-3.html
+
 ## Features
 
 - **Sleek and Modern Design:** The website exudes a modern aesthetic that aligns with current design trends, making it visually appealing and engaging.
@@ -20,7 +24,7 @@ Welcome to the Bike Landing Page project! This showcase is a testament to my fro
 
 1. Clone the repository
 2. Navigate to the distribution folder
-3. Open the `Project-3` file in your preferred web browser.
+3. Open the `Project-3.html` file in your preferred web browser.
 
 ## Usage
 
